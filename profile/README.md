@@ -46,4 +46,3 @@ Ios: Comming soon
 
 For custom features or commercial support, reach out to Nethical at questphone@proton.me.
 
-Curbox is free and always will be. Built by the community since 2024.
