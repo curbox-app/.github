@@ -32,9 +32,12 @@ Curbox is a screen-time and app-blocker for people who want their attention back
 
 Curbox has no telemetry, no accounts, and no data collection. Your usage analytics never leave your device. Because the entire codebase is open source, that promise is verifiable rather than just stated.
 
+## Donate
+Want to donate to the project?
+visit https://curbox.app/donate
 
 ## Available on
-Android: https://github.com/nethical6/curbox-app
+Android: https://github.com/curbox-app/curbox-android
 Web Extension: https://github.com/curbox-app/curbox-extension
 Ios: Comming soon
 
