@@ -28,6 +28,9 @@ Curbox is a screen-time and app-blocker for people who want their attention back
 - **Insights and live awareness** — per-app and per-website usage, plus a live count of how much short-form content you have scrolled today.
 - **Mindful nudges** — per-app grayscale, automatic Do Not Disturb, and reflection messages that quietly nudge you toward better habits.
 
+- **Cross Sync** - Automatically sync configs and usage analytics across all devices
+- **End to End Encrypted** - All data you store on our server is End to End encrypted. or You are free to alternatively setup and use your own servers.
+
 ## Privacy first
 
 Curbox has no telemetry, no accounts, and no data collection. Your usage analytics never leave your device. Because the entire codebase is open source, that promise is verifiable rather than just stated.
@@ -37,15 +40,12 @@ Want to donate to the project?
 visit https://curbox.app/donate
 
 ## Available on
-Android: https://github.com/curbox-app/curbox-android
-Web Extension: https://github.com/curbox-app/curbox-extension
-Ios: Comming soon
+[Android](https://github.com/curbox-app/curbox-android)
+[Browser Extension](https://github.com/curbox-app/curbox-extension)
+Ios (comming soon)
 
-## Get involved
-
-- **Documentation** to set up your first block
-- **Community** on Discord (discord.com/invite/Vs9mwUtuCN) and Telegram (t.me/curboxapp)
-- **Source code** on GitHub, where the project is developed in the open
+## Join our Community
+- **Community** on [Discord](discord.com/invite/Vs9mwUtuCN) and [Telegram](t.me/curboxapp)
 
 For custom features or commercial support, reach out to Nethical at questphone@proton.me.
 
